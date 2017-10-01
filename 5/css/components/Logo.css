@@ -1,0 +1,11 @@
+.Logo {
+    /*background-image: url(../../images/react-logo.svg);*/
+    background-image: url(http://sport.ua/img/sprite-sef1153cfae.png?270717);
+    background-repeat: no-repeat;
+    background-position: -35px -4319px;
+    background-size: cover;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    vertical-align: middle;
+}
